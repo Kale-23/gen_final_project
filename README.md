@@ -2,6 +2,8 @@
 
 ## THE STUDY BACKGROUND
 
+[the study is here](https://www.youtube.com/watch?v=o-YBDTqX_ZU)
+
 this study was completed by people and I stole their data
 
 ## METHODS
