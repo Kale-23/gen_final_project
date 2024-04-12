@@ -9,6 +9,8 @@ this study was completed by people and I stole their data
 - first i ran ___
 - next I ran ___
 
+![](./outline.png)
+
 ## CONCLUDING?HELPFUL STUFF
 
 - chatgpt
